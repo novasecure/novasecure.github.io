@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# <span style="color:purple">NOVASEC INFORMATION SECURITY SERVICES</span>
 
-You can use the [editor on GitHub](https://github.com/novasecure/novasecure.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# INFORMATION SECURITY/CYBER SECURITY SERVICES:
+* [APT Hunting, Threat Hunting](https://trietptm.com/service/Threat_Hunting)
+* [Incident Response](https://trietptm.com/service/Incident_Response_Forensics)
+* [Forensics Analysis]()
+* [Information Security/Cyber Security Consulting]()
+* [Red Teaming]()
+* [System Penetration Testing]()
+* OTHERS:
+  * Secure Data Wiping/Removal (Laptops, Disks, Mobile Phones)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# OTHER CONSULTING SERVICES:
+* [How to transform your life with meditation and other life changing habits]()
 
-### Markdown
+# TESTIMONIALS, ENDORSEMENTS AND SUCCESS STORIES
+* [Mr Tan The Nguyen - Vice General Director of VCCorp](https://www.slideshare.net/slideshow/embed_code/key/AGjVNZ4vKbPLxT)
+* Uncle Bills (UBL) Thảo Điền
+* Điện tử Viễn Thông Hải Đăng
+* BLUESOFTS., JSC
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/novasecure/novasecure.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [VIETNAMESE VERSION OF THIS WEBSITE](http://novasec.vn/VN)
