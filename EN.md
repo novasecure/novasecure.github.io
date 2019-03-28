@@ -1,8 +1,8 @@
 # <span style="color:purple">NOVASEC INFORMATION SECURITY SERVICES</span>
 
 # INFORMATION SECURITY/CYBER SECURITY SERVICES:
-* [APT Hunting, Threat Hunting](https://trietptm.com/service/Threat_Hunting)
-* [Incident Response](https://trietptm.com/service/Incident_Response_Forensics)
+* [APT Hunting, Threat Hunting](https://novasec.vn/service/Threat_Hunting)
+* [Incident Response](https://novasec.vn/service/Incident_Response_Forensics)
 * [Forensics Analysis]()
 * [Information Security/Cyber Security Consulting]()
 * [Red Teaming]()
@@ -19,4 +19,4 @@
 * Điện tử Viễn Thông Hải Đăng
 * BLUESOFTS., JSC
 
-# [VIETNAMESE VERSION OF THIS WEBSITE](http://novasec.vn/VN)
+# [VIETNAMESE VERSION OF THIS WEBSITE](https://novasec.vn/VN)
